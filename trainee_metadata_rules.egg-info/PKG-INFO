@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: trainee-metadata-rules
+Version: 0.0.1
+Summary: Trainee Metadata Rules
+Home-page: https://github.com/Keba462/trainee_metadata_rules.git
+Author: Kebadiretse Motlhabi
+Author-email: kmotlhabi@bhp.org.bw
+License: GPL license, see LICENSE
+Keywords: django trainee metadata rules
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+
+# trainee-metadata-rules

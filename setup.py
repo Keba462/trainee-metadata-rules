@@ -11,7 +11,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md')) as readme:
 os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
-    name='trainee-metadata_rules',
+    name='trainee_metadata_rules',
     version='0.0.1',
     author=u'Kebadiretse Motlhabi',
     author_email='kmotlhabi@bhp.org.bw',

@@ -13,10 +13,10 @@ class EducationalQuestionaireRuleGroup(CrfRuleGroup):
         predicate = P('working','eq',YES),
         consequence=REQUIRED,
         alternative=NOT_REQUIRED,
-        target_models = [f'{app_label}.community_engagement',f'{app_label}.demographics']
+        target_models = [f'{app_label}.communityengagement']
     )
 
 
-class Meta:
-    app_label = app_label
-    source_model = f'{app_label}.educational_questionaire'
+    class Meta:
+        app_label = app_label
+        source_model = f'{app_label}.educationalquestionaire'
